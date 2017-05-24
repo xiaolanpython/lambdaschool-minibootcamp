@@ -1,0 +1,35 @@
+.redtop {
+  background-color: red;
+  height: 120px;
+  width: 1200px;
+}
+
+.blueside {
+  background-color: blue;
+  width: 400px;
+  height: 100%;
+  float: left;
+}
+
+.purplemid {
+  background-color: purple;
+  width: 400px;
+  height: 100%;
+  float: left;
+  position: relative
+}
+
+.yellowside {
+  background-color: yellow;
+  width: 400px;
+  height: 100%;
+  float: left;
+}
+
+.greenbottom {
+  background-color: green;
+  width: 1200px;
+  height: 120px;
+  float: left;
+  bottom: 0;
+}
